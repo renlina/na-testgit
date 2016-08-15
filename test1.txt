@@ -1,3 +1,2 @@
-12132
-而UI股份我看
-我添加了一句话
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
